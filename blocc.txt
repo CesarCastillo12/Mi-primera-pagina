@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		
+		<title>SITIO WEB UTECEJOTA</title>
+	</head>
+	<body style="background-color:rgb(120, 255, 0 )">
+	
+		<h1>BIENVENIDO </h1> 
+		<h2>BIENVENIDO </h2>
+		<h3>BIENVENIDO </h3>
+		<h4>BIENVENIDO </h4>
+		<h5>BIENVENIDO </h5>
+		<h6>BIENVENIDO </h6>	
+		<h7>BIENVENIDO </h7> 
+		<!-- No existe -->
+		<p>Mi primer sitio web en bloc de notas</p>
+		<p><i><b>
+		SITIO WEB </b></i></p>
+	</body>
+</html>
